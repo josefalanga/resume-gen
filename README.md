@@ -6,7 +6,7 @@ I got tired of maintaining my resume up to date like an animal, with visual tool
 
 You can grab the latest release in the relevant section, or download and compile it yourself!
 
-Below, there is some AI generated documents for anyone curious.
+Below, there is some AI generated documentation for anyone curious. I was too lazy to explain it myself.
 
 ## About
 
